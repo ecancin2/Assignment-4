@@ -1,0 +1,30 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+  color: red;
+}
+
+.header1{
+	font-size: 50px;
+	text-align: center;
+}
+
+.header2{
+	font-size: 40px;
+	text-align: center;
+}
+
+#bg{
+	background-image: url("polka8.jpg");
+}
+
+#rotateimg{
+	transform: rotate(15deg);	
+}
+
+#rotateimg2{
+	transform: rotate(-20deg);
+}
